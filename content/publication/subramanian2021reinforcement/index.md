@@ -26,7 +26,7 @@ publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *ArXiv*
-# publication_short: In *ACCS 2019*
+# publication_short: In *ArXiv*
 
 abstract: Reinforcement learning methods have recently been very successful at performing complex sequential tasks like playing Atari games, Go and Poker. These algorithms have outperformed humans in several tasks by learning from scratch, using only scalar rewards obtained through interaction with their environment. While there certainly has been considerable independent innovation in the area to produce such results, many core ideas in reinforcement learning are inspired by phenomena of animal learning, psychology and neuroscience. In this paper, we comprehensively review a number of findings in neuroscience and psychology that provide evidence for the plausibility of reinforcement learning being a promising model for phenomena in human learning, decision making and behavior. We do so by a) exploring neuroscientific evidence for various classes of RL algorithms along with their building blocks, and b) mapping specific RL ideas to findings in neuroscience and psychology. Finally, we discuss the implications of these findings and their role in advancing research in both AI and brain science.
 
