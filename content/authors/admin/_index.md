@@ -14,12 +14,12 @@ organizations:
   url: https://www.bits-pilani.ac.in/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Interested in machine learning, human vision and cognition.
+bio: Interested in artificial intelligence and computational models of human perception and cognition.
 
 # Interests to show in About widget
 interests:
 - Artificial Intelligence
-- Computational Modelling of Human Perception and Cognition
+- Computational Models of Perception & Cognition
 
 # Education to show in About widget
 education:
