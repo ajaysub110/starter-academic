@@ -30,12 +30,12 @@ publication_types: ["1"]
 publication: In *Sixth Annual Conference of the Association for Cognitive Science in India*
 publication_short: In *ACCS 2019*
 
-# abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Recent work in cognitive neuroscience has aimed to better understand how the brain responds to external stimuli. Extensive study is being done to gauge the involvement of various regions of the brain in the processing of external stimuli. A study by Ostarek et al. has produced experimental evidence of the involvement of low-level visual representations in spoken word processing, using Continuous Flash Suppression (CFS). For example, hearing the word ‘car’ induces a visual representation of a car in extrastriate areas of the visual cortex that seems to have a spatial resolution of some kind. Though the structure of these areas of the brain has been extensively studied, research hasn’t really delved into the functional aspects. In this work, we aim to take this a step further by experimenting with generative models such as Variational Autoencoders (VAEs) (Kingma et al 2013) and Generative Adversarial Networks (GANs) (Goodfellow et al. 2014) to generate images purely from the EEG signals induced by listening to spoken words of objects.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags: []
+tags: [Deep Learning, Cognitive Neuroscience]
 
 # Display this page in the Featured widget?
 featured: true
@@ -57,7 +57,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: 'Deep neural network architecture'
   focal_point: ""
   preview_only: false
 
@@ -66,15 +66,14 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-- example
+projects: []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: ""
 ---
 
 {{% callout note %}}
