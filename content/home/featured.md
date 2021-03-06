@@ -35,4 +35,6 @@ design:
   view: 1
 ---
 
-**[See all publications](./publication/).**
+{{% callout note %}}
+See [All Publications](./publication/).
+{{% /callout %}}
