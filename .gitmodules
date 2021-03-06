@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/ajaysub110/ajaysub110.github.io.git
+	branch = master
