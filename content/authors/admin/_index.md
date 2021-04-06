@@ -14,19 +14,23 @@ organizations:
   url: https://www.bits-pilani.ac.in/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Interested in artificial intelligence and computational models of human perception and cognition.
+bio: Interested in Machine Learning and Cognitive Neuroscience
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Models of Perception & Cognition
+- Machine Learning
+- Perception
+- Cognitive Neuroscience
 
 # Education to show in About widget
 education:
   courses:
-  - course: BE in Electronics and Communication Engineering
+  - course: Ph.D. in Cognition & Perception
+    institution: New York University
+    year: 2021-2026
+  - course: B.E. in Electronics & Communication Engineering
     institution: BITS Pilani
-    year: 2021
+    year: 2017-2021
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -64,4 +68,10 @@ email: ""
 highlight_name: true
 ---
 
-I am a final year undergraduate student at [BITS Pilani, India](https://www.bits-pilani.ac.in/) and a core member at the [Society for Artificial Intelligence and Deep Learning](https://www.saidl.in/). I am currently a research intern at Harvard University and MIT, working with [Prof. Samuel Gershman](https://gershmanlab.com/) on model-based reinforcement learning inspired by theories of human cognition. My primary interests are in using deep neural networks as computational models for human perception and cognition. I believe that research in this direction can enhance our understanding of human intelligence as well as help us develop better AI systems.
+I am an incoming PhD Student in Cognition & Perception at [New York University](https://www.nyu.edu/). I recently completed my undergraduate degree in Electronics and Communication Engineering from [BITS Pilani, India](https://www.bits-pilani.ac.in/).
+
+Currently, I am a research intern at [Harvard](https://www.harvard.edu/) and [MIT](https://www.mit.edu/), working with [Samuel Gershman](https://gershmanlab.com/). Previously, I pursued my senior thesis under [Partha Mitra](https://www.cshl.edu/research/faculty-staff/partha-mitra/). During my undergraduate years, I have worked on research projects in collaboration with [INCF](https://www.incf.org/) (as part of [Google Summer of Code](https://summerofcode.withgoogle.com/)), [University of Manchester](https://www.manchester.ac.uk/) (as part of the [Human Brain Project](https://www.humanbrainproject.eu/en/)), and [Max Planck Institute for Psycholinguistics](https://www.mpi.nl/). At BITS, I was advised by [Veeky Baths](https://universe.bits-pilani.ac.in/goa/veeky/profile) and [Basabdatta Sen Bhattacharya](https://www.bits-pilani.ac.in/goa/basabdattab/profile).
+
+I am also a core member of the [Society for Artificial Intelligence and Deep Learning (SAiDL)](https://www.saidl.in/) as part of which I have been involved in [teaching](https://github.com/SforAiDl/Deep-Learning-TIP), [open-source](https://github.com/SforAiDl/genrl) and [organizing social events](https://sites.google.com/view/aisymposium2020/home).
+
+Outside of research, I am a tennis player and have represented my high school and college at various national tournaments. I also enjoy playing basketball, hiking and reading non-fiction.
