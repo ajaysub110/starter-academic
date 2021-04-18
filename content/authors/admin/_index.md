@@ -68,7 +68,7 @@ email: ""
 highlight_name: true
 ---
 
-I am an incoming PhD Student in Cognition & Perception at [New York University](https://www.nyu.edu/). I recently completed my undergraduate degree in Electronics and Communication Engineering from [BITS Pilani, India](https://www.bits-pilani.ac.in/).
+I am an incoming PhD student in Cognition & Perception at [New York University](https://www.nyu.edu/). I recently completed my undergraduate degree in Electronics and Communication Engineering from [BITS Pilani, India](https://www.bits-pilani.ac.in/).
 
 I am currently a research intern at [Harvard University](https://www.harvard.edu/) and [Massachusetts Institute of Technology](https://www.mit.edu/), working with [Sam Gershman](https://gershmanlab.com/). Previously, I did my undergraduate thesis at [CCBR, IIT Madras](https://ccbr.iitmadras.in/) advised by [Partha Mitra](https://www.cshl.edu/research/faculty-staff/partha-mitra/). During my undergrad, I was advised by [Veeky Baths](https://universe.bits-pilani.ac.in/goa/veeky/profile) and [Basabdatta Sen Bhattacharya](https://www.bits-pilani.ac.in/goa/basabdattab/profile) under whom I was fortunate to work in collaboration with [Max Planck Institute for Psycholinguistics](https://www.mpi.nl/), [University of Manchester](https://www.manchester.ac.uk/), and the [Human Brain Project](https://www.humanbrainproject.eu/en/). In 2019, I was selected for [Google Summer of Code](https://summerofcode.withgoogle.com/) program working for [INCF](https://www.incf.org/) and [GeNN Team, University of Sussex](https://github.com/genn-team).
 
