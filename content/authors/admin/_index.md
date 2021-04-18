@@ -14,13 +14,13 @@ organizations:
   url: https://www.nyu.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Interested in Machine Learning, Perception and Cognitive Neuroscience
+bio: Interested in Machine Learning, Vision Science and Human Cognition
 
 # Interests to show in About widget
 interests:
 - Machine Learning
-- Perception
-- Cognitive Neuroscience
+- Vision Science
+- Human Cognition
 
 # Education to show in About widget
 education:
@@ -59,7 +59,7 @@ social:
 # and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: media/cv.pdf
+  link: media/ajay_cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
