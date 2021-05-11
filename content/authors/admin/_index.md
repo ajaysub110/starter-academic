@@ -14,13 +14,14 @@ organizations:
   url: https://www.nyu.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Interested in Machine Learning, Vision Science and Human Cognition
+bio: Interested in Deep Learning, Reinforcement Learning, Vision, Cognition
 
 # Interests to show in About widget
 interests:
-- Machine Learning
-- Vision Science
-- Human Cognition
+- Deep Learning
+- Reinforcement Learning
+- Vision
+- Cognition
 
 # Education to show in About widget
 education:
