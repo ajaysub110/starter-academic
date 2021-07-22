@@ -67,7 +67,7 @@ email: ""
 highlight_name: true
 ---
 <!-- SHORT VERSION -->
-I am an incoming PhD student in Cognition & Perception at [New York University](https://www.nyu.edu/). I recently completed my undergraduate degree in Electronics and Communication Engineering from [BITS Pilani, India](https://www.bits-pilani.ac.in/). I am primarily interested in testing the ability of deep neural networks to model human vision.
+I am an incoming PhD student in Cognition & Perception at [New York University](https://www.nyu.edu/). I recently completed my undergraduate degree in Electronics and Communication Engineering from [BITS Pilani, India](https://www.bits-pilani.ac.in/). I am primarily interested in developing computational models of human perception.
 
 Previously, I have worked on projects spanning computer vision, reinforcement learning and cognitive neuroscience in collaboration with [Harvard University](https://www.harvard.edu/), [CCBR](https://ccbr.iitmadras.in/), [Max Planck Institute for Psycholinguistics](https://www.mpi.nl/), [Human Brain Project](https://www.humanbrainproject.eu/en/) and [INCF](https://www.incf.org/)
 
