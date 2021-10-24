@@ -14,12 +14,13 @@ organizations:
   url: https://www.nyu.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Interested in Deep learning and Vision science
+bio: Interested in neural networks, object recognition
 
 # Interests to show in About widget
 interests:
-- Deep learning
-- Vision science
+- Neural networks
+- Object recognition
+- Models of human perception
 
 # Education to show in About widget
 education:
@@ -67,9 +68,9 @@ email: ""
 highlight_name: true
 ---
 <!-- SHORT VERSION -->
-I am an incoming PhD student in Cognition & Perception at [New York University](https://www.nyu.edu/). I recently completed my undergraduate degree in Electronics and Communication Engineering from [BITS Pilani, India](https://www.bits-pilani.ac.in/). I am primarily interested in developing computational models of human perception.
+I am a PhD student in Cognition & Perception at [New York University](https://www.nyu.edu/), advised by Prof. Denis Pelli. I am currently working on building neural network models for human object recognition and reading. Previously, I was at [BITS Pilani, India](https://www.bits-pilani.ac.in/) where I completed my undergraduate degree in Electronics and Communication Engineering.
 
-Previously, I have worked on projects spanning computer vision, reinforcement learning and cognitive neuroscience in collaboration with [Harvard University](https://www.harvard.edu/), [CCBR](https://ccbr.iitmadras.in/), [Max Planck Institute for Psycholinguistics](https://www.mpi.nl/), [Human Brain Project](https://www.humanbrainproject.eu/en/) and [INCF](https://www.incf.org/)
+In the past, I have worked on projects spanning computer vision, reinforcement learning and cognitive neuroscience in collaboration with [Harvard University](https://www.harvard.edu/), [CCBR](https://ccbr.iitmadras.in/), [Max Planck Institute for Psycholinguistics](https://www.mpi.nl/), [Human Brain Project](https://www.humanbrainproject.eu/en/) and [INCF](https://www.incf.org/).
 
 <!-- LONG VERSION -->
 <!-- I am an incoming PhD student in Cognition & Perception at [New York University](https://www.nyu.edu/). I recently completed my undergraduate degree in Electronics and Communication Engineering from [BITS Pilani, India](https://www.bits-pilani.ac.in/).

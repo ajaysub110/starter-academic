@@ -1,5 +1,5 @@
 ---
-title: "Using Dynamic Neural Networks to Model the Speed-Accuracy Trade-Off in People"
+title: "SATBench: A Benchmark of the Human Speed-Accuracy Tradeoff in Recognizing Objects"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -14,11 +14,11 @@ authors:
 # Author notes (optional)
 # author_notes:
 
-date: "2021-06-07T00:00:00Z"
+date: "2021-08-17T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2021-06-07T00:00:00Z"
+publishDate: "2021-08-17T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -27,10 +27,10 @@ publishDate: "2021-06-07T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: Under Review at *NeurIPS 2021 Datasets and Benchmarks Track*
+publication: Pre-print
 # publication_short: In *ArXiv*
 
-abstract: Neural networks have been shown to exhibit remarkable object recognition performance. We ask here whether such networks can provide a useful model for how people recognize objects. Human recognition time varies, from 0.1 to 10 s, depending on the stimulus and task. Slowness of recognition is a key feature in some public health issues, such as dyslexia, so it is crucial to create a model of human speed-accuracy trade-offs. This is an essential aspect of any useful computational model of human cognitive behavior. We present a benchmark dataset for human speed-accuracy trade-off in recognizing a CIFAR-10 image~\cite{Krizhevsky09learningmultiple} from a set of provided class labels. Within a series of trials, a beep sounds at a fixed delay after the target (the desired reaction time), and the response counts only if it occurs near that time. We observe that accuracy grows with reaction time and examine several dynamic neural networks that exhibit a speed-accuracy trade-off as humans do. After limiting the network resources and adding image perturbations (grayscale conversion, noise, blur) to bring the two observers (human and network) into the same accuracy range, humans and networks show very similar dependence on duration or floating point operations (FLOPS). We conclude that dynamic neural networks are a promising model of human reaction time in recognition tasks. Understanding how the brain allocates appropriate resources under time pressure would be a milestone in neuroscience and a first step toward understanding conditions like dyslexia. Our dataset and code are publicly available.
+abstract: People take a variable amount of time, 0.1 to 10 s, to recognize an object. The reaction time depends on the stimulus and task, and people can trade off speed for accuracy. That tradeoff is a crucial human skill. Neural networks exhibit high accuracy in object recognition, but most current models cannot dynamically adapt to respond with less computation, which is a problem in time-sensitive applications like driving. Towards the goal of using networks to model how people recognize objects, we here present a benchmark dataset (with model fits) of the human speed-accuracy tradeoff (SAT) in recognizing CIFAR-10 and STL-10 images. In each trial, a beep, indicating the desired reaction time, sounds at a fixed delay after the target onset, and the observer's response counts only if it occurs near the time of the beep. With practice, observers quickly learn to respond at the time of the beep. In a series of blocks, we test many beep latencies, i.e., reaction times. We observe that human accuracy increases with reaction time, and we compare its characteristics with the behavior of several dynamic neural networks that can trade off speed and accuracy. After limiting the network resources and adding image perturbations (grayscale conversion, noise, blur) to bring the two observers (human and network) into the same accuracy range, we show that humans and networks exhibit very similar tradeoffs. We conclude that dynamic neural networks are a promising model of human reaction time in recognition tasks. Our dataset and code are publicly available.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -45,7 +45,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://openreview.net/pdf?id=pOf_IV_-XG'
+url_pdf: 'https://openreview.net/pdf?id=gZKTMm2Dt5'
 url_code: 'https://github.com/ajaysub110/anytime-prediction'
 url_dataset: 'https://osf.io/zkvep/'
 url_poster: ''
