@@ -25,7 +25,7 @@ publishDate: "2021-10-22T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: In Press at *Elsevier Neural Networks*
+publication: In *Elsevier Neural Networks*
 # publication_short: In *ArXiv*
 
 abstract: Reinforcement learning methods have recently been very successful at performing complex sequential tasks like playing Atari games, Go and Poker. These algorithms have outperformed humans in several tasks by learning from scratch, using only scalar rewards obtained through interaction with their environment. While there certainly has been considerable independent innovation to produce such results, many core ideas in reinforcement learning are inspired by phenomena in animal learning, psychology and neuroscience. In this paper, we comprehensively review a large number of findings in both neuroscience and psychology that evidence reinforcement learning as a promising candidate for modeling learning and decision making in the brain. In doing so, we construct a mapping between various classes of modern RL algorithms and specific findings in both neurophysiological and behavioral literature. We then discuss the implications of this observed relationship between RL, neuroscience and psychology and its role in advancing research in both AI and brain science.
@@ -43,7 +43,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://arxiv.org/pdf/2007.01099.pdf'
+url_pdf: 'https://www.sciencedirect.com/science/article/pii/S0893608021003944'
 url_code: ''
 url_dataset: ''
 url_poster: ''
