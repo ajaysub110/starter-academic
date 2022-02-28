@@ -20,14 +20,13 @@ bio: Interested in neural networks, object recognition
 interests:
 - Neural networks
 - Object recognition
-- Models of human perception
 
 # Education to show in About widget
 education:
   courses:
   - course: Ph.D. in Cognition & Perception
     institution: New York University
-    year: 2021-2026
+    year: 2021-
   - course: B.E. in Electronics & Communication Engineering
     institution: BITS Pilani
     year: 2017-2021
@@ -68,7 +67,7 @@ email: ""
 highlight_name: true
 ---
 <!-- SHORT VERSION -->
-I am a PhD student in Cognition & Perception at [New York University](https://www.nyu.edu/), advised by Prof. Denis Pelli. I am currently working on building neural network models for human object recognition and reading. Previously, I was at [BITS Pilani, India](https://www.bits-pilani.ac.in/) where I completed my undergraduate degree in Electronics and Communication Engineering.
+I am a PhD student in Cognition & Perception at [New York University](https://www.nyu.edu/), advised by Prof. Denis Pelli. I am currently working on building neural network models of human object recognition. Previously, I was at [BITS Pilani, India](https://www.bits-pilani.ac.in/) where I completed my undergraduate degree in Electronics and Communication Engineering.
 
 In the past, I have worked on projects spanning computer vision, reinforcement learning and cognitive neuroscience in collaboration with [Harvard University](https://www.harvard.edu/), [CCBR](https://ccbr.iitmadras.in/), [Max Planck Institute for Psycholinguistics](https://www.mpi.nl/), [Human Brain Project](https://www.humanbrainproject.eu/en/) and [INCF](https://www.incf.org/).
 

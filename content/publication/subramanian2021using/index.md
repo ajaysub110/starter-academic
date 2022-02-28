@@ -9,7 +9,7 @@ authors:
 - Omkar Kumbhar
 - Elena Sizikova
 - Najib Majaj
-- Denis Pelli
+- Denis G. Pelli
 
 # Author notes (optional)
 # author_notes:
