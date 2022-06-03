@@ -26,7 +26,7 @@ publishDate: "2022-02-28T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: Under Review in *Neuromorphic Computing and Engineering*
+publication: In *Neuromorphic Computing and Engineering*
 # publication_short: In *ArXiv*
 
 # abstract: 
